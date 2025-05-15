@@ -5,5 +5,5 @@ import tailwindcss from '@tailwindcss/vite'
 // https://vite.dev/config/
 export default defineConfig({
   plugins: [react(), tailwindcss()],
-  base: 'LeviDuarte_Digital_Portfolio'
+  base: '/LeviDuarte_Digital_Portfolio'
 })
